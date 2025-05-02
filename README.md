@@ -46,6 +46,18 @@
 pip install torch torchvision matplotlib numpy
 ```
 
+## 克隆仓库
+
+您可以使用以下命令克隆此仓库：
+
+```bash
+# 使用HTTPS
+git clone https://github.com/l14666/vgg16-cifar10.git
+
+# 或使用SSH（推荐）
+git clone git@github.com:l14666/vgg16-cifar10.git
+```
+
 ## 使用方法
 
 ### 训练模型
