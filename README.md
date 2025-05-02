@@ -86,8 +86,6 @@ python main.py --mode visualize --checkpoint best_model.pth
 tensorboard --logdir=runs
 ```
 
-然后在浏览器中打开 http://localhost:6006 查看训练曲线。
-
 TensorBoard记录的指标包括：
 - 训练损失(Loss/train)
 - 测试损失(Loss/test)
